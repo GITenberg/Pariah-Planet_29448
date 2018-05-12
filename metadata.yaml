@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7321
     wikipedia: http://en.wikipedia.org/wiki/Murray_Leinster
 description: See also PG#18172 version as "This World is Taboo"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29448#Pariah-Planet
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-07-18'
 gutenberg_type: Text
